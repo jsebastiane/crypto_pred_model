@@ -20,10 +20,10 @@ technical indicators to determine tomorrow's percentage change in price. My hypo
 help make more accurate predictions. So instead of predicting an exact number like -3.45% I made 6 categories - A, B, C, D, E, F - all
 representing a percentage change unknown to the model. Below are the categories in which the percentage changes were placed
 
-A = 2<x<4 ---> 2% - 4% change
-B = 4<x<10 ---> 4% - 10% change
-C = 10<x ---> 10% or greater change
-D = -4<x<-2 ---> -2% to -4% change 
-E = -10<x<-4 ---> -4% to -10% change
-F = -10>x --->
+\n A = 2<x<4 ---> 2% - 4% change
+\n B = 4<x<10 ---> 4% - 10% change
+\n C = 10<x ---> 10% or greater change
+\n D = -4<x<-2 ---> -2% to -4% change 
+\n E = -10<x<-4 ---> -4% to -10% change
+\n F = -10>x --->
 
